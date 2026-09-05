@@ -1,3 +1,3 @@
-# TITULO 1 
-## SUBTITULO 
-Este es mi textod e ejemplo 02
+# Curso de desarrollo web con IA 
+## primera clase  
+La primera clase se vio sobre teoría y al finalizar creamos nuestra cu enta de Github y hicimos el primer commit y push del curso
